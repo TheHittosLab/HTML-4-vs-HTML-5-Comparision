@@ -12,5 +12,5 @@ http://bit.ly/31Eckvj
 
 Una página para comparar el mismo contenido escrito en HTML 4 y HTML5.
 
-You can see the explanation on my YouTube channel and learn advanced HTML 5 and many other free courses:
+Puedes ver la explicación en mi canal de YouTube y aprender HTML 5 avanzado y muchos otros cursos gratuitos:
 http://bit.ly/31Eckvj
